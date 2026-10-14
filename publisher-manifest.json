@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "054018b1e43fc2d8a44f0486",
+  "owner": "kcmsskxse",
+  "repo": "page-7c8ec1e4a5cab321c28ff5c0",
+  "title": "GPT中转",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7c8ec1e4a5cab321c28ff5c0",
+      "a": "GPT中转",
+      "b": "",
+      "entity": "GPT中转",
+      "brand": "GPT中转",
+      "separator": "",
+      "path": "index.html",
+      "hash": "09ff27fbf3eac353b9f8c49e560f6cd7417aa3316d7430bc0b01a1969f06f32d",
+      "content": {
+        "keyword1": "GPT中转",
+        "keyword2": "",
+        "primary_entity": "GPT中转",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT中转提供优质的机场加速服务，稳定节点池，支持客户端下载和机场订阅。基础版、旗舰版、团队版多种选择，按年付更优惠，助力您畅享全球网络。",
+          "AI_DESCRIPTION": "GPT中转提供优质的机场加速服务，稳定节点池，支持客户端下载和机场订阅。基础版、旗舰版、团队版多种选择，按年付更优惠，助力您畅享全球网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<div><header><h1>GPT中转</h1><nav><a href=\"#intro\">首页</a><a href=\"#usage\">使用场景</a><a href=\"#plans\">套餐选择</a><a href=\"#config\">配置流程</a><a href=\"#faq\">FAQ</a></nav></header><main><section id=\"intro\"><h2>GPT中转 机场加速器</h2><p>GPT中转是专业的机场加速服务提供商，提供稳定高效节点池，支持客户端下载和机场订阅，帮助用户轻松解锁全球流媒体与网络资源。无论家庭共享、办公远程还是游戏加速，GPT中转都能为您带来优质稳定体验。</p></section><section id=\"usage\"><h2>使用场景</h2><ul><li>• 解锁Netflix、Disney+、YouTube等流媒体平台</li><li>• 全球访问与科学上网</li><li>• 家庭多设备网络共享</li><li>• 游戏加速与低延迟连接</li><li>• 远程办公与数据传输</li></ul></section><section id=\"plans\"><h2>套餐选择</h2><div><div><h3>基础版</h3><p>¥15/月</p><p>按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a href=\"#config\">立即订阅</a></div><div><h3>旗舰版</h3><p>¥35/月</p><p>按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a href=\"#config\">立即订阅</a></div><div><h3>团队版</h3><p>¥85/月</p><p>按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a href=\"#config\">立即订阅</a></div></div></section><section id=\"config\"><h2>配置流程</h2><p>以下是GPT中转的简单配置流程，让您快速上手：</p><ol><li><strong>1. 选择套餐</strong>：根据需求选择基础版、旗舰版或团队版。</li><li><strong>2. 完成支付</strong>：支持微信、支付宝、信用卡，按年付更优惠。</li><li><strong>3. 接收订阅链接</strong>：支付成功后通过邮箱或官网获取订阅链接。</li><li><strong>4. 下载客户端</strong>：访问官网或应用商店下载对应客户端。</li><li><strong>5. 导入配置</strong>：在客户端中粘贴订阅链接或配置文件。</li><li><strong>6. 连接节点</strong>：选择可用节点并连接，即可畅享加速服务。</li></ol></section><section id=\"faq\"><h2>常见问题 FAQ</h2><details><summary>如何开始使用GPT中转？</summary><p>选择套餐后完成支付，接收订阅链接，下载客户端导入配置即可连接节点。整个过程简单高效。</p></details><details><summary>支持哪些设备同时在线？</summary><p>基础版支持3台，旗舰版支持5台，团队版支持20台设备同时在线。</p></details><details><summary>流量如何使用？</summary><p>每月流量包，基础版100GB，旗舰版300GB，团队版1000GB，超出可能限速。</p></details><details><summary>如何下载客户端？</summary><p>访问官网，下载适用于Windows、macOS、Android、iOS的客户端，或通过机场订阅工具导入。</p></details><details><summary>支持流媒体解锁吗？</summary><p>旗舰版及以上套餐提供全节点原生流媒体解锁，基础版支持基础平台。</p></details><details><summary>节点池选择有哪些？</summary><p>普通线路节点池适合日常使用，IPLC专线提供游戏加速优化，旗舰版以上支持更多优质节点。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>© 2024 GPT中转 机场加速器 客户端下载 官网</p><p>友情链接：<a href=\"#plans\">套餐选择</a> | <a href=\"#faq\">FAQ</a></p><p>广告位：<a href=\"#config\">配置流程</a></p><p>更多信息请访问 <a href=\"#\">官网</a></p></footer></div><style>@media (max-width:768px){header h1{font-size:1.8rem}details{padding:12px}ul li{padding:8px 0}}</style>",
+          "hash": "80075d7acd452469519d85d47724e410c3d4e9dabec9cd255459473f635f3714",
+          "seo": {
+            "title": "GPT中转 机场加速器 客户端下载 官网 VPN加速",
+            "keywords": "GPT中转, 机场, VPN, 加速器, 客户端下载, 网络加速, 流媒体解锁, GPT中转机场",
+            "description": "GPT中转提供优质的机场加速服务，稳定节点池，支持客户端下载和机场订阅。基础版、旗舰版、团队版多种选择，按年付更优惠，助力您畅享全球网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tmndpg.cn",
+    "host": "p-bf33426e5b.tmndpg.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "f7685c8160fcdd34c56d6bf9402af9480180f1ea37803b003da338c09527cf47",
+    "sitemap.xml": "a943fedcd7b4f70ab5d1fb922789b4d19e20cd6e5045d9ab49535f19247c99cf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4fe3b6ee36de380dee70e7b4828fca593421460ff4c6afd51f846f2561bf8158",
+    "robots.txt": "c36e848173cd8c46c702320c02d47b51327ec9e6c7cd2bd55d5771c8e9fb8a51",
+    "5ddc94a697977e2bcab2dc358822d5d6.txt": "942b1d6678282cfa0289aee985a1cd3f9a14f505d1bff3bb52617b1721514c8e"
+  },
+  "revision": "3c58e354b932959abd14ee04f4dcea541a836e3de2b2514967d7f0b26e6871bc"
+}
